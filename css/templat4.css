@@ -147,7 +147,7 @@ ul {
 @media (max-width:767px) {
     .nav .links a {
         padding: 10px;
-        font-size: 13px;
+        font-size: 10px;
         height: 25px;
     }
 }
