@@ -146,9 +146,10 @@ ul {
 
 @media (max-width:767px) {
     .nav .links a {
-        padding: 10px;
-        font-size: 10px;
-        height: 25px;
+padding: 6px;
+    font-size: 10px;
+    height: 25px;
+    font-weight: 500;
     }
 }
 
@@ -269,12 +270,6 @@ ul {
 }
 
 @media (max-width:991px) {
-    .landing .info {
-        margin-left: 50px;
-    }
-}
-
-@media (max-width:767px) {
     .landing .info {
         margin: 80px 20px 40px;
         display: flex;
